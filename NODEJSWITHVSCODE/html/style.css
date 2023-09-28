@@ -1,0 +1,35 @@
+.container-fluid{
+    background-color: blueviolet;
+    color:white;
+}
+
+ .container-fluid .menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px
+ }
+
+ .header-link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .header-link .ul-link{
+    list-style-type: none;
+    margin-right: 20px;
+ }
+
+ .logo-div .logo-text{ 
+    font-size: 20px;
+ }
+
+ .form-section .heading{
+    text-align: center;
+ }
+
+ form span{
+    color:red;
+ }
+
